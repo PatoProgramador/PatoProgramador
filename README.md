@@ -2,4 +2,4 @@
    (Also know as Pato)
 <br>
 
-[![PatoProgramador's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![PatoProgramador's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave)]
