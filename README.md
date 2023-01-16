@@ -12,4 +12,9 @@
 <!--Introduction -->
 I´m a Full stack web developer. lately I feel passion about the backend development, so on my goals are to specialize more and more in this area. I am in the last stage (labs) of the Henry´s Bootcamp. I love expanding my knowledge every day 🚀
 
+### 💼  Things that I'm currently working on: 
+* 👨‍💻 I´m currently working on [PI-Videogames](https://github.com/PatoProgramador/PI-videogames) 
+* <img alt="GIF" src="https://miro.medium.com/max/1000/1*1Cz76SaTMyMVjzbhigz4Gg.gif" width="40px" /> Learning Backend with JAVA and Python!.
+
+
 ![PatoProgramador's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave)
