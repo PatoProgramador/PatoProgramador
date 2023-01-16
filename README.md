@@ -13,3 +13,4 @@
 
 
 ![PatoProgramador's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PatoProgramador_langs_below=.25&theme=radical"
