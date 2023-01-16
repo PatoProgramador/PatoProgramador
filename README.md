@@ -3,7 +3,7 @@
   <br />
 </div>
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-KevinPatiño-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-pati%C3%B1o/)
+[![Linkedin](https://img.shields.io/badge/-KevinPatiño-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-pati%C3%B1o//)
 [![Telegram](https://img.shields.io/badge/-@patolocolosofo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/patolocolosofo)
 [![Instagram](https://img.shields.io/badge/-PatoLunar-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/patolocolosofo/)
 [![Gmail](https://img.shields.io/badge/-skpates18-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:skpates18@gmail.com)
