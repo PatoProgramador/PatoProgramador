@@ -10,6 +10,6 @@
 
 # ¡Hi!, I´m Kevin (Also know as Pato)👋🐱‍💻
 <!--Introduction -->
-I´m a Full stack web developer. lately I'm feel more passionate about the backend, so on my goals are to specialize more and more in this area. I am in the last stage (labs) of the Henry´s Bootcamp. I love expanding my knowledge every day 🚀
+I´m a Full stack web developer. lately I feel passion about the backend development, so on my goals are to specialize more and more in this area. I am in the last stage (labs) of the Henry´s Bootcamp. I love expanding my knowledge every day 🚀
 
 ![PatoProgramador's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave)
