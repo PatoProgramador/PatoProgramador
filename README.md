@@ -26,7 +26,7 @@ I´m a Full stack web developer. I feel passion about the backend development, s
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)<br />
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
 
-## Tools:
+## Tools <img alt="GIF" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" width="40px" />:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github) <br />
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
