@@ -16,5 +16,28 @@ I´m a Full stack web developer. lately I feel passion about the backend develop
 * 👨‍💻 I´m currently working on the individual project [PI-Videogames](https://github.com/PatoProgramador/PI-videogames) of the Henry´s Bootcamp.
 * <img alt="GIF" src="https://miro.medium.com/max/1000/1*1Cz76SaTMyMVjzbhigz4Gg.gif" width="40px" /> Learning Backend with JAVA and Python!.
 
+## Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+
+## Tools:
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) ![](https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=webstorm)<br />
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 ![PatoProgramador's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave)
