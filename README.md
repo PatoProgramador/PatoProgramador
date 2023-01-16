@@ -10,7 +10,7 @@
 
 # ¡Hi!, I´m Kevin (Also know as Pato)👋🐱‍💻
 <!--Introduction -->
-I´m a Full stack web developer. lately I feel passion about the backend development, so on my goals are to specialize more and more in this area. I am in the last stage (labs) of the Henry´s Bootcamp. I love expanding my knowledge every day 🚀
+I´m a Full stack web developer. I feel passion about the backend development, so on my goals are to specialize more and more in this area. I am in the last stage (labs) of the Henry´s Bootcamp. I love expanding my knowledge every day 🚀
 
 ### 💼  Things that I'm currently working on: 
 * 👨‍💻 I´m currently working on the individual project [PI-Videogames](https://github.com/PatoProgramador/PI-videogames) of the Henry´s Bootcamp.
