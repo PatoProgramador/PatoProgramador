@@ -28,14 +28,14 @@ I´m a Full stack web developer. I feel passion about the backend development, s
 
 ## Tools:
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github) <br />
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql) <br />
+![Node](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react) <br />
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
