@@ -6,7 +6,6 @@
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-pati%C3%B1o/)
  ![GitHub followers](https://img.shields.io/github/followers/PatoProgramador?label=Follow&style=social)
  [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/patolocolosofo/)
- <a href="https://discord.gg/xPato#4914" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xPato#4914" height="30" width="40" /></a>
  <a href="mailto:skpates18@gmail.com"><img  src="https://img.shields.io/badge/-skpates18@gmail.com-black?logo=gmail&style=flat-square"></a>&nbsp;&nbsp;
 
 ### Hi, I´m Kevin (Also know as Pato)👋🐱‍💻
