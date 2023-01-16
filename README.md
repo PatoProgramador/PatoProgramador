@@ -8,8 +8,8 @@
  [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/patolocolosofo/)
  <a href="mailto:skpates18@gmail.com"><img  src="https://img.shields.io/badge/-skpates18@gmail.com-black?logo=gmail&style=flat-square"></a>&nbsp;&nbsp;
 
-### Hi, I´m Kevin (Also know as Pato)👋🐱‍💻
-   
-
+# ¡Hi!, I´m Kevin (Also know as Pato)👋🐱‍💻
+<!--Introduction -->
+I´m a Full stack developer
 
 ![PatoProgramador's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave)
