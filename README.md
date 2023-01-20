@@ -16,7 +16,7 @@ I´m a Full stack web developer. I feel passion about the backend development, s
 <img src="https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png" alt="Draw" align="right" width="300" height="300" />
 
 ### 💼  Things that I'm currently working on: 
-* 👨‍💻 I´m currently working on the individual project [PI-Videogames](https://github.com/PatoProgramador/PI-videogames) of the Henry´s Bootcamp.
+* 👨‍💻 The individual project [PI-Videogames](https://github.com/PatoProgramador/PI-videogames) of the Henry´s Bootcamp.
 * <img alt="GIF" src="https://miro.medium.com/max/1000/1*1Cz76SaTMyMVjzbhigz4Gg.gif" width="40px" /> Learning Backend with JAVA and Python!.
 
 ## Languages <img alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--3rFO85cD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkv3xbjb74epempcjone.gif" width="20px" /> :
