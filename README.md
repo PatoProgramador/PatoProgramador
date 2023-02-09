@@ -17,7 +17,7 @@ I´m a Full stack web developer. I feel passion about the backend development, s
 
 ### 💼  Things that I'm currently working on: 
 * 👨‍💻 The final project [PF-Melody](https://github.com/Zetah07/PF-Melody) of the Henry´s Bootcamp.
-* <img alt="GIF1" src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30px" /> The Rick and Morty [app](https://github.com/PatoProgramador/Rick-and-Morty-cards-App).
+* <img alt="GIF1" src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30px" /> The Rick and Morty cards [app](https://github.com/PatoProgramador/Rick-and-Morty-cards-App).
 * <img alt="GIF" src="https://miro.medium.com/max/1000/1*1Cz76SaTMyMVjzbhigz4Gg.gif" width="40px" /> Learning Backend with JAVA and Python!.
 
 ### Languages <img alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--3rFO85cD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkv3xbjb74epempcjone.gif" width="20px" /> :
