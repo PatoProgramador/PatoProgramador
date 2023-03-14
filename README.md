@@ -10,7 +10,7 @@
 
 # ¡Hi!, I´m Kevin (Also know as Pato)👋🦆💻
 <!--Introduction -->
-I´m a graduated Full stack web developer from Henry´s Bootcamp. I feel passion about the backend development, so on my goals are to specialize more and more in this area. I love expanding my knowledge every day 🚀
+I´m a gratuated Full stack web developer from Henry´s Bootcamp. I feel passion about the backend development, so on my goals are to specialize more and more in this area. I love expanding my knowledge every day 🚀
 
 <!-- Sofi Draw uwu -->
 <img src="https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png" alt="Draw" align="right" width="300" height="300" />
