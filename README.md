@@ -32,13 +32,22 @@ I´m a gratuated Full stack web developer from Henry´s Bootcamp. I feel passion
 
 ### Tools <img alt="GIF" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" width="40px" />:
 
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github) <br />
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github)
+<br />
+![Node](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<br />
+![EReact](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql) <br />
-![Node](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react) <br />
+<br />
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+<br />
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
