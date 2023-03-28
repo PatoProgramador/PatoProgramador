@@ -16,9 +16,10 @@ I´m a gratuated Full stack web developer from Henry´s Bootcamp. I feel passion
 
 ### 💼  Things that I'm currently working on: 
 * <img alt="GIF2" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/200w.gif?cid=6c09b9526unwbxzgkj36xchfcsr9pbchkw3cb4swz1x6tj7r&rid=200w.gif&ct=g" width="30px" /> I'm a member of the team [SourceSquack](https://github.com/SourceSquack).
+* <img alt="GIF3" src="https://i0.wp.com/media2.giphy.com/media/WxMBQU7IS82Q0/200.gif?w=840&ssl=1" width="30px" /> In [Rustika Restaurant](https://github.com/SourceSquack/RustikaBackend) project as a Backend developer.
 * <img alt="GIF1" src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30px" /> The Rick and Morty cards [app](https://github.com/PatoProgramador/Rick-and-Morty-cards-App).
-* <img alt="GIF" src="https://brian.carnell.com/wp-content/uploads/2019/12/spiderman-animated-gif.gif" width="40px" /> A [Spider-man](https://github.com/Zetah07/Marvel-Spiderman) website.
-* <img alt="GIF" src="https://miro.medium.com/max/1000/1*1Cz76SaTMyMVjzbhigz4Gg.gif" width="40px" /> Learning Backend with JAVA and Python!.
+* <img alt="GIF4" src="https://brian.carnell.com/wp-content/uploads/2019/12/spiderman-animated-gif.gif" width="40px" /> A [Spider-man](https://github.com/Zetah07/Marvel-Spiderman) website.
+* <img alt="GIF5" src="https://miro.medium.com/max/1000/1*1Cz76SaTMyMVjzbhigz4Gg.gif" width="40px" /> Learning Backend with JAVA and Python!.
 
 ### Languages <img alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--3rFO85cD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkv3xbjb74epempcjone.gif" width="20px" /> :
 
