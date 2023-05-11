@@ -56,3 +56,4 @@ I´m a gratuated Full stack web developer from Henry´s Bootcamp. I feel passion
 
 ![PatoProgramador's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatoProgramador&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<sub>Credits to: <br/>[TofusVal](https://github.com/TofusVal) for the wonderfull [picture](https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png) 💜</sub>
