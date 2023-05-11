@@ -5,6 +5,7 @@
 
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-pati%C3%B1o/)
  ![GitHub followers](https://img.shields.io/github/followers/PatoProgramador?label=Follow&style=social)
+ [![HackerRank](https://img.shields.io/badge/-patoProgramador-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/patoProgramador?hr_r=1)
  <a href="mailto:skpates18@gmail.com"><img  src="https://img.shields.io/badge/-skpates18@gmail.com-black?logo=gmail&style=flat-square"></a>&nbsp;&nbsp;
 
 # ¡Hi!, I´m Kevin (Also know as Pato)👋🦆💻
