@@ -13,8 +13,11 @@
 I´m a gratuated Full stack web developer from Henry´s Bootcamp. I feel passion about the backend development, so on my goals are to specialize more and more in this area. I love expanding my knowledge every day 🚀
 
 <!-- Sofi Draw uwu -->
-<img src="https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png" alt="Draw" align="right" width="300" height="300" />
 
+<p>
+
+  <img src="https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png" alt="Draw" align="right" width="35%" />
+  
 ### 💼  Things that I'm currently working on: 
 * <img alt="GIF1" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/200w.gif?cid=6c09b9526unwbxzgkj36xchfcsr9pbchkw3cb4swz1x6tj7r&rid=200w.gif&ct=g" width="30px" /> I'm a member of the team [SourceSquack](https://github.com/SourceSquack).
 * <img alt="GIF2" src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30px" /> The Rick and Morty cards [app](https://github.com/PatoProgramador/Rick-and-Morty-cards-App).
@@ -30,12 +33,16 @@ I´m a gratuated Full stack web developer from Henry´s Bootcamp. I feel passion
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)<br />
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave" alt="stats" width="50%" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoProgramador&layout=compact" alt="stats2" width="50%" height="200px" align="right"/>
 
 ### Tools <img alt="GIF" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" width="40px" />:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github)
 <br />
+  
 ![Node](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -51,9 +58,7 @@ I´m a gratuated Full stack web developer from Henry´s Bootcamp. I feel passion
 <br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
-![PatoProgramador's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatoProgramador&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</p>
 
 <sub>Credits to: <br/>[TofusVal](https://github.com/TofusVal) for the wonderfull [picture](https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png) 💜</sub>
