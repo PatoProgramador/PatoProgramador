@@ -32,7 +32,7 @@ I´m a gratuated Full stack web developer from Henry´s Bootcamp. I feel passion
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
   
   <img src="https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave" alt="stats" width="50%" align="right"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoProgramador&layout=donut" alt="stats2" width="50%" height="200px" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoProgramador&theme=tokyonight&layout=donut" alt="stats2" width="50%" height="200px" align="right"/>
 
 ### Tools <img alt="GIF" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" width="40px" />:
 
