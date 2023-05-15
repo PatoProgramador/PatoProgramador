@@ -59,3 +59,7 @@ I´m a gratuated Full stack web developer from Henry´s Bootcamp. I feel passion
 </p>
 
 Credits to: <br/>[TofusVal](https://github.com/TofusVal) for the wonderfull [picture](https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png) 💜
+
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
