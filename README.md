@@ -75,5 +75,3 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 
 ### <img alt="GIF6" src="https://media.tenor.com/m91BAUnkYw0AAAAM/heart-pixel-art.gif" width="30px" /> Credits to: 
 * [TofusVal](https://github.com/TofusVal) for the wonderfull [picture](https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png) 💜
-
-...Yes, I love the GIFs <img alt="GIF6" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" width="30px" />
