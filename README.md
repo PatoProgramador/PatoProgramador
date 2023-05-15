@@ -65,9 +65,9 @@ Credits to: <br/>[TofusVal](https://github.com/TofusVal) for the wonderfull [pic
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/SourceSquack/RustikaBackend/pull/24) in [SourceSquack/RustikaBackend](https://github.com/SourceSquack/RustikaBackend)
-2. 💪 Opened PR [#23](https://github.com/SourceSquack/RustikaBackend/pull/23) in [SourceSquack/RustikaBackend](https://github.com/SourceSquack/RustikaBackend)
-3. 💪 Opened PR [#22](https://github.com/SourceSquack/RustikaBackend/pull/22) in [SourceSquack/RustikaBackend](https://github.com/SourceSquack/RustikaBackend)
-4. 🎉 Merged PR [#71](https://github.com/SourceSquack/RustikaFront/pull/71) in [SourceSquack/RustikaFront](https://github.com/SourceSquack/RustikaFront)
-5. 🗣 Commented on [#71](https://github.com/SourceSquack/RustikaFront/issues/71) in [SourceSquack/RustikaFront](https://github.com/SourceSquack/RustikaFront)
+1. 🚀 Pushed 57 commits to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)
+2. 💪 Opened PR [#24](https://github.com/SourceSquack/RustikaBackend/pull/24) in [SourceSquack/RustikaBackend](https://github.com/SourceSquack/RustikaBackend)
+3. 🚀 Pushed 1 commit to [SourceSquack/RustikaBackend](https://github.com/SourceSquack/RustikaBackend)
+4. 💪 Opened PR [#23](https://github.com/SourceSquack/RustikaBackend/pull/23) in [SourceSquack/RustikaBackend](https://github.com/SourceSquack/RustikaBackend)
+5. 💪 Opened PR [#22](https://github.com/SourceSquack/RustikaBackend/pull/22) in [SourceSquack/RustikaBackend](https://github.com/SourceSquack/RustikaBackend)
 <!--END_SECTION:activity-->
