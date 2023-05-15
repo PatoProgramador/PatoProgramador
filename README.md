@@ -60,12 +60,11 @@ I´m a gratuated Full stack web developer from Henry´s Bootcamp. I feel passion
 
 Credits to: <br/>[TofusVal](https://github.com/TofusVal) for the wonderfull [picture](https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png) 💜
 
-### :zap: Recent Activity
-
+### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12608](https://github.com/nuxt/nuxt.js/issues/12608) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-2. 💪 Opened PR [#9962](https://github.com/nuxt/framework/pull/9962) in [nuxt/framework](https://github.com/nuxt/framework)
-3. 🗣 Commented on [#9946](https://github.com/nuxt/framework/issues/9946) in [nuxt/framework](https://github.com/nuxt/framework)
-4. 💪 Opened PR [#9946](https://github.com/nuxt/framework/pull/9946) in [nuxt/framework](https://github.com/nuxt/framework)
-5. 🗣 Commented on [#1029](https://github.com/t3-oss/create-t3-app/issues/1029) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
+1. 🚀 Pushed 1 commit to [Bhard27/Bhard27](https://github.com/Bhard27/Bhard27)
+2. ❗️ Opened issue [#1](https://github.com/tassossapalidis/latextgan/issues/1) in [tassossapalidis/latextgan](https://github.com/tassossapalidis/latextgan)
+3. ❗️ Closed issue [#2](https://github.com/Bhard27/Bhard27/issues/2) in [Bhard27/Bhard27](https://github.com/Bhard27/Bhard27)
+4. 🗣 Commented NaN commits in [AmineDiro/Adversarial-Attacks](https://github.com/AmineDiro/Adversarial-Attacks)
+5. 🗣 Commented on [#30](https://github.com/SimonBlanke/Hyperactive/issues/30) in [SimonBlanke/Hyperactive](https://github.com/SimonBlanke/Hyperactive)
 <!--END_SECTION:activity-->
