@@ -40,10 +40,6 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 
 ### <img alt="GIF" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" width="40px" /> Tools:
 
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github)
-<br />
-  
 ![Node](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -56,6 +52,9 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 <br />
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<br />
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github)
 <br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
