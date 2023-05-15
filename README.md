@@ -9,7 +9,7 @@
  <a href="mailto:skpates18@gmail.com"><img  src="https://img.shields.io/badge/-skpates18@gmail.com-black?logo=gmail&style=flat-square"></a>&nbsp;&nbsp;
 
 # ¡Hi!, I´m Kevin (Also know as Pato)👋🦆💻
-<!--Introduction -->
+
 I´m a gratuated Full stack web developer from Henry´s Bootcamp. I feel passion about programming useful and interesting applications, so on my goals are to specialize more and more in this area. I love expanding my knowledge every day 🚀
 
 <p>
