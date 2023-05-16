@@ -17,14 +17,13 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 
   <img src="https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png" alt="Draw" align="right" width="35%" />
  
-
-### 💼  Things that I'm currently working on: 
+## 💼 Things that I'm currently working on: 
 * <img alt="GIF1" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/200w.gif?cid=6c09b9526unwbxzgkj36xchfcsr9pbchkw3cb4swz1x6tj7r&rid=200w.gif&ct=g" width="30px" /> I'm a member of the team [SourceSquack](https://github.com/SourceSquack).
 * <img alt="GIF2" src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30px" /> The Rick and Morty cards [app](https://github.com/PatoProgramador/Rick-and-Morty-cards-App).
 * <img alt="GIF4" src="https://media.tenor.com/hE0T8D0GpXsAAAAC/joinblink-blink.gif" width="40px" /> My [discord Bot](https://github.com/PatoProgramador/patoBot).
 
 
-### <img alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--3rFO85cD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkv3xbjb74epempcjone.gif" width="20px" /> Languages:
+## <img alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--3rFO85cD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkv3xbjb74epempcjone.gif" width="20px" /> Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -34,11 +33,8 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)<br />
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
   
-  <img src="https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave" alt="stats" width="50%" align="right"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoProgramador&theme=tokyonight&layout=donut" alt="stats2" width="50%" height="200px" align="right"/>
 
-
-### <img alt="GIF" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" width="40px" /> Tools:
+## <img alt="GIF" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" width="40px" /> Tools:
 
 ![Node](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -61,8 +57,15 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
   
 </p>
 
+## <img alt="GIF5" src="https://media1.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" width="30px" /> Github Stats:
 
-### <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoProgramador&theme=tokyonight&layout=donut"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=PatoProgramador&theme=sunset-gradient&border_radius=5.6" />
+</p>
+
+## <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 62 commits to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)
@@ -73,5 +76,5 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 <!--END_SECTION:activity-->
 
 
-### <img alt="GIF6" src="https://media.tenor.com/m91BAUnkYw0AAAAM/heart-pixel-art.gif" width="30px" /> Credits to: 
+## <img alt="GIF6" src="https://media.tenor.com/m91BAUnkYw0AAAAM/heart-pixel-art.gif" width="30px" /> Credits to: 
 * [TofusVal](https://github.com/TofusVal) for the wonderfull [picture](https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png) 💜
