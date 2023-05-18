@@ -68,8 +68,16 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 ## <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
+2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
+3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
+4. ⬆️ Pushed 3 commit(s) to [PatoProgramador/Rick-and-Morty-app](https://github.com/PatoProgramador/Rick-and-Morty-app)<br>
+5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Thursday, May 18th, 2023, 4:40:30 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 
 ## <img alt="GIF6" src="https://media.tenor.com/m91BAUnkYw0AAAAM/heart-pixel-art.gif" width="30px" /> Credits to: 
