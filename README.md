@@ -69,14 +69,14 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [PatoProgramador/Rick-and-Morty-app](https://github.com/PatoProgramador/Rick-and-Morty-app)<br>
-2. ⬆️ Pushed 3 commit(s) to [PatoProgramador/Rick-and-Morty-app](https://github.com/PatoProgramador/Rick-and-Morty-app)<br>
-3. ⬆️ Pushed 2 commit(s) to [PatoProgramador/Rick-and-Morty-app](https://github.com/PatoProgramador/Rick-and-Morty-app)<br>
-4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Rick-and-Morty-app](https://github.com/PatoProgramador/Rick-and-Morty-app)<br>
-5. ⬆️ Pushed 4 commit(s) to [PatoProgramador/Rick-and-Morty-app](https://github.com/PatoProgramador/Rick-and-Morty-app)<br>
+2. ⬆️ Pushed 2 commit(s) to [PatoProgramador/Rick-and-Morty-app](https://github.com/PatoProgramador/Rick-and-Morty-app)<br>
+3. ⬆️ Pushed 3 commit(s) to [PatoProgramador/Rick-and-Morty-app](https://github.com/PatoProgramador/Rick-and-Morty-app)<br>
+4. ⬆️ Pushed 2 commit(s) to [PatoProgramador/Rick-and-Morty-app](https://github.com/PatoProgramador/Rick-and-Morty-app)<br>
+5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Rick-and-Morty-app](https://github.com/PatoProgramador/Rick-and-Morty-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 23rd, 2023, 10:34:21 PM
+Last Updated: Tuesday, May 23rd, 2023, 11:10:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
