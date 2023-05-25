@@ -15,7 +15,7 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 
 <p>
 
-  <img src="https://github.com/PatoProgramador/PatoProgramador/blob/main/src/sofiDraw.png" alt="Draw" align="right" width="35%" />
+  <img src="./src/sofiDraw.png" alt="Draw" align="right" width="35%" />
  
 ## 💼 Things that I'm currently working on: 
 * <img alt="GIF1" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/200w.gif?cid=6c09b9526unwbxzgkj36xchfcsr9pbchkw3cb4swz1x6tj7r&rid=200w.gif&ct=g" width="30px" /> I'm a member of the team [SourceSquack](https://github.com/SourceSquack).
