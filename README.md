@@ -33,6 +33,7 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)<br />
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
+![graphql](https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql)
   
 
 ## <img alt="GIF" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" width="40px" /> Tools:
@@ -41,7 +42,6 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 ![Node](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![graphql](https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql)
 ![apollographql](https://img.shields.io/badge/apollo%20graphql-blueviolet?style=for-the-badge&logo=apollographql)
 <br />
 ![EReact](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
