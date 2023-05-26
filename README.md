@@ -52,6 +52,7 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 <br />
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
 <br />
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github)
