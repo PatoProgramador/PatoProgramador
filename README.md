@@ -18,6 +18,7 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
   <img src="./src/sofiDraw.png" alt="Draw" align="right" width="35%" />
  
 ## 💼 Things that I'm currently working on: 
+* <img alt="imgrocket" src="https://therocketcode.com/Simple%20Color.png" width="30px" />  Rocket Code as a Full stack developer :)
 * <img alt="GIF1" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/200w.gif?cid=6c09b9526unwbxzgkj36xchfcsr9pbchkw3cb4swz1x6tj7r&rid=200w.gif&ct=g" width="30px" /> I'm a member of the team [SourceSquack](https://github.com/SourceSquack).
 * <img alt="GIF2" src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30px" /> The Rick and Morty web [app](https://github.com/PatoProgramador/Rick-and-Morty-cards-App).
 * <img alt="GIF4" src="https://media.tenor.com/hE0T8D0GpXsAAAAC/joinblink-blink.gif" width="40px" /> My [discord Bot](https://github.com/PatoProgramador/patoBot).
