@@ -76,15 +76,15 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 ## <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [PatoProgramador/typescritp-practice](https://github.com/PatoProgramador/typescritp-practice)<br>
-2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
+1. ⬆️ Pushed 2 commit(s) to [PatoProgramador/typescritp-practice](https://github.com/PatoProgramador/typescritp-practice)<br>
+2. 📔 Created new repository [PatoProgramador/typescritp-practice](https://github.com/PatoProgramador/typescritp-practice)<br>
 3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
 4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
 5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 30th, 2023, 3:34:28 AM
+Last Updated: Tuesday, May 30th, 2023, 4:13:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
