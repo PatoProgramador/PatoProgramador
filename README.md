@@ -59,6 +59,7 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 <br />
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github)
+![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 <br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
