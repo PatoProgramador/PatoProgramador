@@ -77,15 +77,15 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 ## <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
-2. ⬆️ Pushed 7 commit(s) to [PatoProgramador/react-typescript-practice](https://github.com/PatoProgramador/react-typescript-practice)<br>
-3. ⭐ Starred [TofusVal/EncriptadorAlura](https://github.com/TofusVal/EncriptadorAlura)<br>
-4. 📔 Created new repository [PatoProgramador/react-typescript-practice](https://github.com/PatoProgramador/react-typescript-practice)<br>
-5. ⬆️ Pushed 2 commit(s) to [PatoProgramador/typescritp-practice](https://github.com/PatoProgramador/typescritp-practice)<br>
+1. ⬆️ Pushed 2 commit(s) to [PatoProgramador/react-typescript-practice](https://github.com/PatoProgramador/react-typescript-practice)<br>
+2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
+3. ⬆️ Pushed 7 commit(s) to [PatoProgramador/react-typescript-practice](https://github.com/PatoProgramador/react-typescript-practice)<br>
+4. ⭐ Starred [TofusVal/EncriptadorAlura](https://github.com/TofusVal/EncriptadorAlura)<br>
+5. 📔 Created new repository [PatoProgramador/react-typescript-practice](https://github.com/PatoProgramador/react-typescript-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 6th, 2023, 1:08:19 AM
+Last Updated: Tuesday, June 6th, 2023, 2:44:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
