@@ -85,7 +85,7 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 15th, 2023, 4:13:42 PM
+Last Updated: Thursday, June 15th, 2023, 4:37:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
