@@ -51,7 +51,10 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 <br />
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+<br />
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![TypeOrm](https://img.shields.io/badge/TypeORM-orange?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/mongoose-brown?style=for-the-badge&logo=mongoose)
 <br />
 ![aws](https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
