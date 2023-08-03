@@ -30,6 +30,8 @@ I am a Full stack developer with a curious mind so I'm always working on a side 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)<br />
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br />
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)<br />
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
