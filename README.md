@@ -11,7 +11,7 @@
 
 # ¡Hi!, I´m Kevin (Also know as Pato)👋🦆💻
 
-I am a Full stack developer with a curious mind so I'm always working on a side project to learn or practice. I feel passion about programming useful and interesting applications, so on my goals are to specialize more and more in this area. I love expanding my knowledge every day 🚀
+I am a Full stack web developer and I am doing my degree in Software engineering. I am a person with a curious mind so I'm always working on a side project to learn or practice. I feel passion about programming useful and interesting applications, so on my goals are to specialize more and more in this area. I love expanding my knowledge every day 🚀
 
 <p>
 
