@@ -81,15 +81,15 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 ## <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Rick-and-Morty-app](https://github.com/PatoProgramador/Rick-and-Morty-app)<br>
-2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/rick-and-morty-api](https://github.com/PatoProgramador/rick-and-morty-api)<br>
-3. 📔 Created new repository [PatoProgramador/rick-and-morty-api](https://github.com/PatoProgramador/rick-and-morty-api)<br>
-4. 💪 Opened PR [#5](https://github.com/SourceSquack/LatinXplorer/pull/5) in [SourceSquack/LatinXplorer](https://github.com/SourceSquack/LatinXplorer)<br>
-5. ⭐ Starred [SourceSquack/LatinXplorer](https://github.com/SourceSquack/LatinXplorer)<br>
+1. ⬆️ Pushed 4 commit(s) to [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
+2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
+3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
+4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
+5. 📔 Created new repository [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 2nd, 2023, 11:34:30 PM
+Last Updated: Thursday, August 3rd, 2023, 12:58:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
