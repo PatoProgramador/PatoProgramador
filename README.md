@@ -82,14 +82,14 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
-2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/logica-de-programacion-py](https://github.com/PatoProgramador/logica-de-programacion-py)<br>
+2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
 3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/logica-de-programacion-py](https://github.com/PatoProgramador/logica-de-programacion-py)<br>
 4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/logica-de-programacion-py](https://github.com/PatoProgramador/logica-de-programacion-py)<br>
-5. 📔 Created new repository [PatoProgramador/logica-de-programacion-py](https://github.com/PatoProgramador/logica-de-programacion-py)<br>
+5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/logica-de-programacion-py](https://github.com/PatoProgramador/logica-de-programacion-py)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 12th, 2023, 7:34:22 PM
+Last Updated: Saturday, August 12th, 2023, 8:09:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
