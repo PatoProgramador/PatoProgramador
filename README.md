@@ -81,15 +81,15 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 ## <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/logica-de-programacion-py](https://github.com/PatoProgramador/logica-de-programacion-py)<br>
-2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
+1. ⬆️ Pushed 2 commit(s) to [PatoProgramador/rick-and-morty-api](https://github.com/PatoProgramador/rick-and-morty-api)<br>
+2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/logica-de-programacion-py](https://github.com/PatoProgramador/logica-de-programacion-py)<br>
 3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
-4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/logica-de-programacion-py](https://github.com/PatoProgramador/logica-de-programacion-py)<br>
+4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
 5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/logica-de-programacion-py](https://github.com/PatoProgramador/logica-de-programacion-py)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 13th, 2023, 7:07:40 PM
+Last Updated: Sunday, August 13th, 2023, 7:34:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
