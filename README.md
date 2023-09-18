@@ -82,14 +82,14 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
-2. ⬆️ Pushed 3 commit(s) to [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
-3. ⭐ Starred [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
-4. 📔 Created new repository [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
-5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
+2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
+3. ⬆️ Pushed 3 commit(s) to [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
+4. ⭐ Starred [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
+5. 📔 Created new repository [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 18th, 2023, 6:13:59 PM
+Last Updated: Monday, September 18th, 2023, 6:35:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
