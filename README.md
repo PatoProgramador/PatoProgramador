@@ -81,15 +81,15 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 ## <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
-2. 📔 Created new repository [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
-3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
-4. ⬆️ Pushed 3 commit(s) to [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
-5. ⭐ Starred [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
+1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
+2. ⬆️ Pushed 3 commit(s) to [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
+3. ⭐ Starred [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
+4. 📔 Created new repository [PatoProgramador/coursera_python](https://github.com/PatoProgramador/coursera_python)<br>
+5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/programacion-estructurada](https://github.com/PatoProgramador/programacion-estructurada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 18th, 2023, 2:34:59 PM
+Last Updated: Monday, September 18th, 2023, 3:11:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
