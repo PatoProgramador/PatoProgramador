@@ -81,15 +81,15 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 ## <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/PatoProgramador/-tutorias-repo/pull/2) in [PatoProgramador/-tutorias-repo](https://github.com/PatoProgramador/-tutorias-repo)<br>
-2. ⬆️ Pushed 2 commit(s) to [PatoProgramador/-tutorias-repo](https://github.com/PatoProgramador/-tutorias-repo)<br>
-3. ⬆️ Pushed 3 commit(s) to [PatoProgramador/-tutorias-repo](https://github.com/PatoProgramador/-tutorias-repo)<br>
-4. 🎉 Merged PR [#1](https://github.com/PatoProgramador/-tutorias-repo/pull/1) in [PatoProgramador/-tutorias-repo](https://github.com/PatoProgramador/-tutorias-repo)<br>
-5. 👍 Approved [#2](https://github.com/PatoProgramador/-tutorias-repo/pull/2#pullrequestreview-1746745136) in [PatoProgramador/-tutorias-repo](https://github.com/PatoProgramador/-tutorias-repo)<br>
+1. 🤝 Became collaborator on [PatoProgramador/-tutorias-repo](https://github.com/PatoProgramador/-tutorias-repo)<br>
+2. 🎉 Merged PR [#2](https://github.com/PatoProgramador/-tutorias-repo/pull/2) in [PatoProgramador/-tutorias-repo](https://github.com/PatoProgramador/-tutorias-repo)<br>
+3. ⬆️ Pushed 2 commit(s) to [PatoProgramador/-tutorias-repo](https://github.com/PatoProgramador/-tutorias-repo)<br>
+4. ⬆️ Pushed 3 commit(s) to [PatoProgramador/-tutorias-repo](https://github.com/PatoProgramador/-tutorias-repo)<br>
+5. 🎉 Merged PR [#1](https://github.com/PatoProgramador/-tutorias-repo/pull/1) in [PatoProgramador/-tutorias-repo](https://github.com/PatoProgramador/-tutorias-repo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 23rd, 2023, 4:38:04 PM
+Last Updated: Thursday, November 23rd, 2023, 5:10:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
