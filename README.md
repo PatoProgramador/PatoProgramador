@@ -81,15 +81,15 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 ## <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [PatoProgramador/JS-game](https://github.com/PatoProgramador/JS-game)<br>
-2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/alura-practices](https://github.com/PatoProgramador/alura-practices)<br>
-3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/alura-practices](https://github.com/PatoProgramador/alura-practices)<br>
-4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/JS-game](https://github.com/PatoProgramador/JS-game)<br>
-5. 📔 Created new repository [PatoProgramador/alura-practices](https://github.com/PatoProgramador/alura-practices)<br>
+1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/alura-practices](https://github.com/PatoProgramador/alura-practices)<br>
+2. ⬆️ Pushed 3 commit(s) to [PatoProgramador/JS-game](https://github.com/PatoProgramador/JS-game)<br>
+3. ⬆️ Pushed 3 commit(s) to [PatoProgramador/JS-game](https://github.com/PatoProgramador/JS-game)<br>
+4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/alura-practices](https://github.com/PatoProgramador/alura-practices)<br>
+5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/alura-practices](https://github.com/PatoProgramador/alura-practices)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 23rd, 2024, 11:35:26 PM
+Last Updated: Wednesday, January 24th, 2024, 12:55:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
