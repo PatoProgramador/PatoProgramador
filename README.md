@@ -82,14 +82,14 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 3 commit(s) to [PatoProgramador/barberia-Alura](https://github.com/PatoProgramador/barberia-Alura)<br>
-2. ⬆️ Pushed 5 commit(s) to [PatoProgramador/barberia-Alura](https://github.com/PatoProgramador/barberia-Alura)<br>
-3. 📔 Created new repository [PatoProgramador/barberia-Alura](https://github.com/PatoProgramador/barberia-Alura)<br>
-4. ⬆️ Pushed 2 commit(s) to [PatoProgramador/JS-game](https://github.com/PatoProgramador/JS-game)<br>
-5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/alura-practices](https://github.com/PatoProgramador/alura-practices)<br>
+2. ⬆️ Pushed 3 commit(s) to [PatoProgramador/barberia-Alura](https://github.com/PatoProgramador/barberia-Alura)<br>
+3. ⬆️ Pushed 5 commit(s) to [PatoProgramador/barberia-Alura](https://github.com/PatoProgramador/barberia-Alura)<br>
+4. 📔 Created new repository [PatoProgramador/barberia-Alura](https://github.com/PatoProgramador/barberia-Alura)<br>
+5. ⬆️ Pushed 2 commit(s) to [PatoProgramador/JS-game](https://github.com/PatoProgramador/JS-game)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 26th, 2024, 8:35:37 PM
+Last Updated: Friday, January 26th, 2024, 9:10:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
