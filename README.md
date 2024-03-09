@@ -89,7 +89,7 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 9th, 2024, 7:09:37 AM
+Last Updated: Saturday, March 9th, 2024, 7:34:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
