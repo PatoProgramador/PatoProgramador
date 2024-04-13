@@ -21,6 +21,8 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 * <img alt="GIF1" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/200w.gif?cid=6c09b9526unwbxzgkj36xchfcsr9pbchkw3cb4swz1x6tj7r&rid=200w.gif&ct=g" width="30px" /> I'm a member of the team [SourceSquack](https://github.com/SourceSquack).
 * <img alt="GIF2" src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30px" /> The Rick and Morty web [app](https://github.com/PatoProgramador/Rick-and-Morty-cards-App).
 * <img alt="GIF4" src="https://media.tenor.com/hE0T8D0GpXsAAAAC/joinblink-blink.gif" width="40px" /> My [discord Bot](https://github.com/PatoProgramador/patoBot).
+* <img alt="GIF4" src="https://miro.medium.com/v2/resize:fit:502/0*8Au6QYi7tfdafaBQ.gif" width="40px" /> Learning Backend with java/ Spring/ SpringBoot in ONE (Oracle Next Education).
+* <img alt="GIF4" src="https://revistadigital.mx/wp-content/uploads/2023/02/Depositphotos_51226785_L.gif" width="30px" /> Learning IA in Talento Tech Program (Bootcamp of mintic).
 
 
 ## <img alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--3rFO85cD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkv3xbjb74epempcjone.gif" width="20px" /> Languages:
