@@ -84,14 +84,14 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Curriculum-Vitae](https://github.com/PatoProgramador/Curriculum-Vitae)<br>
-2. 📔 Created new repository [PatoProgramador/Curriculum-Vitae](https://github.com/PatoProgramador/Curriculum-Vitae)<br>
-3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Conversor-de-monedas](https://github.com/PatoProgramador/Conversor-de-monedas)<br>
-4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Conversor-de-monedas](https://github.com/PatoProgramador/Conversor-de-monedas)<br>
+2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Curriculum-Vitae](https://github.com/PatoProgramador/Curriculum-Vitae)<br>
+3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Curriculum-Vitae](https://github.com/PatoProgramador/Curriculum-Vitae)<br>
+4. 📔 Created new repository [PatoProgramador/Curriculum-Vitae](https://github.com/PatoProgramador/Curriculum-Vitae)<br>
 5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Conversor-de-monedas](https://github.com/PatoProgramador/Conversor-de-monedas)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 23rd, 2024, 10:11:44 PM
+Last Updated: Tuesday, April 23rd, 2024, 10:34:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
