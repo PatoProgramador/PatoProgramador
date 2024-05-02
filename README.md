@@ -86,12 +86,12 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Basic-AI-model-training](https://github.com/PatoProgramador/Basic-AI-model-training)<br>
 2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Basic-AI-model-training](https://github.com/PatoProgramador/Basic-AI-model-training)<br>
 3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Basic-AI-model-training](https://github.com/PatoProgramador/Basic-AI-model-training)<br>
-4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Titanic-AI-model](https://github.com/PatoProgramador/Titanic-AI-model)<br>
+4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Basic-AI-model-training](https://github.com/PatoProgramador/Basic-AI-model-training)<br>
 5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Titanic-AI-model](https://github.com/PatoProgramador/Titanic-AI-model)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 2nd, 2024, 11:13:18 PM
+Last Updated: Thursday, May 2nd, 2024, 11:35:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
