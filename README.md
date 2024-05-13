@@ -83,15 +83,15 @@ I am a Full stack web developer and I am doing my degree in Software engineering
 ## <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/screenmatch-with-Spring](https://github.com/PatoProgramador/screenmatch-with-Spring)<br>
-2. ⭐ Starred [cdimascio/dotenv-java](https://github.com/cdimascio/dotenv-java)<br>
+1. 🤝 Became collaborator on [PatoProgramador/Sorting-Algorithms](https://github.com/PatoProgramador/Sorting-Algorithms)<br>
+2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/Sorting-Algorithms](https://github.com/PatoProgramador/Sorting-Algorithms)<br>
 3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/screenmatch-with-Spring](https://github.com/PatoProgramador/screenmatch-with-Spring)<br>
-4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/screenmatch-with-Spring](https://github.com/PatoProgramador/screenmatch-with-Spring)<br>
+4. ⭐ Starred [cdimascio/dotenv-java](https://github.com/cdimascio/dotenv-java)<br>
 5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/screenmatch-with-Spring](https://github.com/PatoProgramador/screenmatch-with-Spring)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 13th, 2024, 5:10:23 PM
+Last Updated: Monday, May 13th, 2024, 5:36:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
