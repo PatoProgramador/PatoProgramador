@@ -84,14 +84,14 @@ I am a Backend Developer and I am doing my degree in Software engineering. I am 
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/screenmatch-with-Spring](https://github.com/PatoProgramador/screenmatch-with-Spring)<br>
-2. ⬆️ Pushed 6 commit(s) to [PatoProgramador/Sorting-Algorithms](https://github.com/PatoProgramador/Sorting-Algorithms)<br>
-3. 🎉 Merged PR [#1](https://github.com/PatoProgramador/Sorting-Algorithms/pull/1) in [PatoProgramador/Sorting-Algorithms](https://github.com/PatoProgramador/Sorting-Algorithms)<br>
-4. 💪 Opened PR [#1](https://github.com/PatoProgramador/Sorting-Algorithms/pull/1) in [PatoProgramador/Sorting-Algorithms](https://github.com/PatoProgramador/Sorting-Algorithms)<br>
-5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/screenmatch-with-Spring](https://github.com/PatoProgramador/screenmatch-with-Spring)<br>
+2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/PatoProgramador](https://github.com/PatoProgramador/PatoProgramador)<br>
+3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/screenmatch-with-Spring](https://github.com/PatoProgramador/screenmatch-with-Spring)<br>
+4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/screenmatch-with-Spring](https://github.com/PatoProgramador/screenmatch-with-Spring)<br>
+5. ⬆️ Pushed 6 commit(s) to [PatoProgramador/Sorting-Algorithms](https://github.com/PatoProgramador/Sorting-Algorithms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 14th, 2024, 12:54:32 AM
+Last Updated: Tuesday, May 14th, 2024, 1:52:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
