@@ -84,11 +84,11 @@ I am a Backend Developer and I am doing my degree in Software engineering. I am 
 2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/inmobiliaria-backend](https://github.com/PatoProgramador/inmobiliaria-backend)<br>
 3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/inmobiliaria-backend](https://github.com/PatoProgramador/inmobiliaria-backend)<br>
 4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/inmobiliaria-backend](https://github.com/PatoProgramador/inmobiliaria-backend)<br>
-5. ⬆️ Pushed 2 commit(s) to [PatoProgramador/inmobiliaria-fronted](https://github.com/PatoProgramador/inmobiliaria-fronted)<br>
+5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/inmobiliaria-backend](https://github.com/PatoProgramador/inmobiliaria-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 1st, 2024, 10:35:14 PM
+Last Updated: Monday, July 1st, 2024, 11:12:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
