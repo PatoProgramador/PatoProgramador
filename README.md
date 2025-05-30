@@ -18,9 +18,7 @@ I am a Software Developer and I am doing my degree in Software engineering. I am
   <img src="./src/sofiDraw.png" alt="Draw" align="right" width="35%" />
  
 ## 💼 Things that I'm currently working on: 
-* <img alt="GIF2" src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30px" /> The Rick and Morty web [app](https://github.com/PatoProgramador/Rick-and-Morty-cards-App).
 * <img alt="GIF4" src="https://media.tenor.com/hE0T8D0GpXsAAAAC/joinblink-blink.gif" width="40px" /> My [discord Bot](https://github.com/PatoProgramador/patoBot).
-* <img alt="GIF4" src="https://miro.medium.com/v2/resize:fit:502/0*8Au6QYi7tfdafaBQ.gif" width="40px" /> Learning Backend with java/ Spring/ SpringBoot in ONE (Oracle Next Education).
 
 ## <img alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--3rFO85cD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkv3xbjb74epempcjone.gif" width="20px" /> Languages:
 
