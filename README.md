@@ -80,13 +80,10 @@ I am a Software Developer and I am doing my degree in Software engineering. I am
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PatoProgramador/comparto_backend](https://github.com/PatoProgramador/comparto_backend)<br>
 2. ⬆️ Pushed 1 commit(s) to [PatoProgramador/comparto_backend](https://github.com/PatoProgramador/comparto_backend)<br>
-3. ⬆️ Pushed 1 commit(s) to [PatoProgramador/comparto_backend](https://github.com/PatoProgramador/comparto_backend)<br>
-4. ⬆️ Pushed 1 commit(s) to [PatoProgramador/comparto_backend](https://github.com/PatoProgramador/comparto_backend)<br>
-5. ⬆️ Pushed 1 commit(s) to [PatoProgramador/comparto_backend](https://github.com/PatoProgramador/comparto_backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 27th, 2025, 6:25:10 AM
+Last Updated: Sunday, July 27th, 2025, 6:52:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
