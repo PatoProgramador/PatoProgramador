@@ -78,15 +78,10 @@ I am a Software Developer and I am doing my degree in Software engineering. I am
 ## <img alt="GIF5" src="https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif" width="30px" /> Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [PatoProgramador/ecored](https://github.com/PatoProgramador/ecored)<br>
-2. ⬆️ Pushed undefined commit(s) to [PatoProgramador/ecored](https://github.com/PatoProgramador/ecored)<br>
-3. ⬆️ Pushed undefined commit(s) to [PatoProgramador/ecored](https://github.com/PatoProgramador/ecored)<br>
-4. ⬆️ Pushed undefined commit(s) to [PatoProgramador/ecored](https://github.com/PatoProgramador/ecored)<br>
-5. ⬆️ Pushed undefined commit(s) to [PatoProgramador/Ases-Backend](https://github.com/PatoProgramador/Ases-Backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 30th, 2026, 10:22:53 AM
+Last Updated: Thursday, April 30th, 2026, 11:57:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
