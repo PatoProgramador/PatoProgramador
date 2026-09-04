@@ -70,8 +70,6 @@ I am a Software Developer and I am doing my degree in Software engineering. I am
 ## <img alt="GIF5" src="https://media1.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" width="30px" /> Github Stats:
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PatoProgramador&show_icons=true&theme=synthwave&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoProgramador&theme=tokyonight&layout=donut"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=PatoProgramador&theme=sunset-gradient&border_radius=5.6" />
 </p>
 
